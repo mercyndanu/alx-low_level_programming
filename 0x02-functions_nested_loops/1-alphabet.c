@@ -1,11 +1,12 @@
 #include "main.h"
 /**
- * main - entry point
+ * main - check the code
  *
  * Return: aways 0
  */
 int main(void)
 {
 	print_alphabet();
+
 	return (0);
 }
