@@ -2,7 +2,7 @@
 /**
  * _islower - checks for lowercase character
  *@c: the character to be checked
- * Retuen: 1 for lowercasw character or 0 for anything else
+ * Retuen: 1 for lowercase character or 0 for anything else
  */
 int _islower(int c)
 {
