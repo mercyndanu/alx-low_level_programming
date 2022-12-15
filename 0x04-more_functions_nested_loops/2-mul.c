@@ -4,9 +4,9 @@
  * mul - multiplies two integers
  * @a: first integer
  * @b: second integer
- * Return: always 0
+ * Return: result of a and b
  */
 int mul(int a, int b)
 {
-result(a * b);
+	return (a * b);
 }
