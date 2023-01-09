@@ -1,4 +1,6 @@
 #include "main.h"
+#define NULL 0
+
 /**
  * _strpbrk - function that searches a string for any of a set of bytes
  * @s:first occurrence in the string
