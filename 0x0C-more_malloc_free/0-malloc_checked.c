@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * *malloc_checked - allocates memory using malloc.
+ * malloc_checked - allocates memory using malloc.
  * @b: allocated memory
  * Return: a pointer to the allocated memory
  */
